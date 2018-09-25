@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+  d:\program files (x86)\microsoft visual studio 14.0\vc\atlmfc\include\afx.h(33): note: see declaration of 'MBCS_Support_Deprecated_In_MFC'
+  SerialPortApplicationDlg.cpp
+e:\vsworks\serialportapplication\serialportapplication\serialportapplicationdlg.cpp(1115): warning C4244: 'initializing': conversion from 'ULONGLONG' to 'unsigned long', possible loss of data
+  SerialPortApplication.cpp
+  SerialPort.cpp
+e:\vsworks\serialportapplication\serialportapplication\serialport.cpp(317): warning C4477: 'sprintf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'LPVOID'
+e:\vsworks\serialportapplication\serialportapplication\serialport.cpp(496): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+e:\vsworks\serialportapplication\serialportapplication\serialport.cpp(523): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  SerialPortApplication.vcxproj -> E:\VSWorks\SerialPortApplication\x64\Debug\SerialPortApplication.exe
+  SerialPortApplication.vcxproj -> E:\VSWorks\SerialPortApplication\x64\Debug\SerialPortApplication.pdb (Partial PDB)
